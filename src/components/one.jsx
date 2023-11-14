@@ -30,9 +30,9 @@ const One = () => {
                     <p>Login</p>
                 </div>
                 <div className="or">
-                    <hr />
+                    <div className="line1"></div>
                     <p>OR</p>
-                    <hr />
+                    <div className="line2"></div>
                 </div>
             </aside>
         </main>
