@@ -1,7 +1,8 @@
 
 
 import  "../styles/One.css"
-import image from "../assets/images/Group 688.png"
+import "../assets/images/Group/ 688.png"
+
 const One = () => {
     return ( 
         <>
