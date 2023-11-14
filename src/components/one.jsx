@@ -34,6 +34,11 @@ const One = () => {
                     <p>OR</p>
                     <div className="line2"></div>
                 </div>
+                <div className="tri">
+                    <div className="one"></div>
+                    <div className="two"></div>
+                    <div className="three"></div>
+                </div>
             </aside>
         </main>
             
