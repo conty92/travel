@@ -3,6 +3,8 @@
 import  "../styles/One.css"
 import "../assets/images/Rectangle26.png"
 import plane from "../assets/images/plane.png"
+// import Vector from "../assets/images/Vector.png"
+// import Group from "../assets/images/Group 688.png"
 
 const One = () => {
     return ( 
@@ -39,6 +41,15 @@ const One = () => {
                     <div className="two"></div>
                     <div className="three"></div>
                 </div>
+                <div className="dont">
+                    <p>Don't have account?</p>
+                    <h5>Register Now</h5>
+                </div>
+                {/* <div className="pic">
+                    <img src={Vector} alt="" />
+                    <img src={Group} alt="" />
+                </div> */}
+
             </aside>
         </main>
             
