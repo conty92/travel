@@ -50,17 +50,39 @@ main{
     height: 150px;
     background-color: beige;
     position: relative;
-    
+    margin-top: 0.5rem; 
 }
 .email{
     width: 50%;
     height: 30px;
-    right: -50%;
-
-
-
+    position: relative;
+    right: -22%;
+    font-size: 12px;
 }
 .password{
     width: 50%;
     height: 30px;
+    position: relative;
+    right: -22%;
+    margin-top: 1rem;
+    font-size: 12px;
+}
+.form > p{
+    font-size: 12px;
+    position: relative;
+    right: -20rem;
+}
+.login{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.login > p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+    background-color: aqua;
+    
 }

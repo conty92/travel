@@ -26,6 +26,9 @@ const One = () => {
                     </fieldset>
                     <p>Forgot your password</p>
                 </div>
+                <div className="login">
+                    <p>Login</p>
+                </div>
             </aside>
         </main>
             
